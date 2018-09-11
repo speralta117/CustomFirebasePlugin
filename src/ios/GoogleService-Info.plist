@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1048970858898-mltsidk6gfeh1k8kpk7pcifeil8s8b12.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1048970858898-mltsidk6gfeh1k8kpk7pcifeil8s8b12</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxB0ep4QjHFDRVJy8YcfmWHlQ2HthQUZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1048970858898</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bluechipcar.devapp</string>
+	<key>PROJECT_ID</key>
+	<string>blue-chip-car</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blue-chip-car.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1048970858898:ios:dbf0a129e4e048ca</string>
+	<key>DATABASE_URL</key>
+	<string>https://blue-chip-car.firebaseio.com</string>
+</dict>
+</plist>

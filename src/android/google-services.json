@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1048970858898",
+    "firebase_url": "https://blue-chip-car.firebaseio.com",
+    "project_id": "blue-chip-car",
+    "storage_bucket": "blue-chip-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048970858898:android:dbf0a129e4e048ca",
+        "android_client_info": {
+          "package_name": "com.bluechipcar.devapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048970858898-k1heolm1bvev1se2t040lacrnq46ja6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0Sbd3QribLIkMO_KFS2W77VDWPWy-TI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
