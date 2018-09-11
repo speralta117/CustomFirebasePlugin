@@ -13,6 +13,7 @@ module.exports = {
       "// Fabric Cordova Plugin - Start Fabric Build Tools ",
       "buildscript {",
       "    repositories {",
+      "        google() ",
       "        maven { url 'https://maven.fabric.io/public' }",
       "        maven { url 'https://maven.google.com' }",
       "    }",
@@ -24,6 +25,7 @@ module.exports = {
       "",
       "apply plugin: 'io.fabric'",
       "apply plugin: 'com.google.gms.google-services'",
+
       "// Fabric Cordova Plugin - End Fabric Build Tools"
     ].join("\n");
 

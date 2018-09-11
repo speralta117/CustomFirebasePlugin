@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="my-app-firebase-plugin" version="2.0.8"
+<plugin id="my-app-firebase-plugin" version="2.0.9"
 xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>My App Firebase Plugin</name>
@@ -56,11 +56,11 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 
 		<framework src="src/android/build.gradle" custom="true" type="gradleReference" />
 		<framework src="com.google.gms:google-services:4.0.1" />
-		<framework src="com.google.android.gms:play-services-tagmanager:11.0.4" />
-		<framework src="com.google.firebase:firebase-core:16.0.3" />
-		<framework src="com.google.firebase:firebase-messaging:17.3.0" />
-		<framework src="com.google.firebase:firebase-config:16.0.0" />
-		<framework src="com.google.firebase:firebase-perf:16.1.0" />
+		<framework src="com.google.android.gms:play-services-tagmanager:11.8.0" />
+		<framework src="com.google.firebase:firebase-core:11.8.0" />
+		<framework src="com.google.firebase:firebase-messaging:11.8.0" />
+		<framework src="com.google.firebase:firebase-config:11.8.0" />
+		<framework src="com.google.firebase:firsebase-perf:11.8.0" />
 
 	</platform>
 
