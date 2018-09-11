@@ -8,7 +8,7 @@
     "url": "https://github.com/speralta117/CustomFirebasePlugin"
   },
   "name": "my-app-firebase-plugin",
-  "version": "1.1.15",
+  "version": "2.0.0",
   "description": "",
   "cordova": {
     "id": "my-app-firebase-plugin",
@@ -18,8 +18,7 @@
       "browser"
     ]
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "scripts": {
     "version": "node ./bump-version.js && git add -A plugin.xml",
     "postversion": "git push && git push --tags && npm publish --verbose",
