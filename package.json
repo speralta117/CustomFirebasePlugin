@@ -5,13 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "https://github.com/speralta117/CustomFirebasePlugin"
   },
-  "name": "cordova-plugin-firebase",
-  "version": "2.0.0",
-  "description": "Cordova plugin for Google Firebase",
+  "name": "my-app-firebase-plugin",
+  "version": "1.1.15",
+  "description": "",
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "my-app-firebase-plugin",
     "platforms": [
       "android",
       "ios",
@@ -19,14 +19,6 @@
     ]
   },
   "keywords": [
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios",
-    "cordova-browser",
-    "firebase",
-    "push",
-    "notifications",
-    "phone auth"
   ],
   "scripts": {
     "version": "node ./bump-version.js && git add -A plugin.xml",
