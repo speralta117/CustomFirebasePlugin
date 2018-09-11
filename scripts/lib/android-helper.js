@@ -23,7 +23,7 @@ module.exports = {
       "}",
       "",
       "apply plugin: 'io.fabric'",
-      "//apply plugin: 'com.google.gms.google-services'",
+      "apply plugin: 'com.google.gms.google-services'",
       "// Fabric Cordova Plugin - End Fabric Build Tools"
     ].join("\n");
 
