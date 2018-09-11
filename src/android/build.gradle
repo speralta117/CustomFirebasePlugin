@@ -24,6 +24,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:16.0.1'
 }
 
-cdvPluginPostBuildExtras.add({
-    apply plugin: 'com.google.gms.google-services'
-})
+// cdvPluginPostBuildExtras.add({
+//     apply plugin: 'com.google.gms.google-services'
+// })
+
+ apply plugin: 'com.google.gms.google-services'

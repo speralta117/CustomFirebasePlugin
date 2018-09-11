@@ -18,7 +18,7 @@ module.exports = {
       "    }",
       "    dependencies {",
       "        classpath 'io.fabric.tools:gradle:1.25.4'",
-      "        classpath 'com.google.gms:google-services:+'",
+      "        classpath 'com.google.gms:google-services:4.0.1'",
       "    }",
       "}",
       "",
