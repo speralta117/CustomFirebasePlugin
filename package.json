@@ -8,7 +8,7 @@
     "url": "https://github.com/speralta117/CustomFirebasePlugin"
   },
   "name": "my-app-firebase-plugin",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "",
   "cordova": {
     "id": "my-app-firebase-plugin",
